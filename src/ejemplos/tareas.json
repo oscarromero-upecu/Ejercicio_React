@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "titulo":"tarea uno",
+        "descripcion":"programar",
+        "cumplido": false
+    },
+    {
+        "id": 2,
+        "titulo":"tarea dos",
+        "descripcion":"limpiar habitacion",
+        "cumplido": false
+    },
+    {
+        "id": 3,
+        "titulo":"tarea tres",
+        "descripcion":"estudiar ingles",
+        "cumplido": false
+    }
+]
